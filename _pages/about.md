@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Aurélien Lucchi
-
 **Associate Professor, Department of Mathematics and Computer Science, University of Basel**  
 **Departement Mathematik und Informatik | Universität Basel**  
 *Basel, Switzerland*  
