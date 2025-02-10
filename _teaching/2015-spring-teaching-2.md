@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Continuous Optimization"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Master course"
+permalink: (https://github.com/alucchi/Continuous_Optimization)
+venue: "University of Basel"
+date: 2025-01-01
+location: "Basel, Switzerland"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
