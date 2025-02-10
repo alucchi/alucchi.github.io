@@ -13,7 +13,7 @@ title                    : "Aurelien Lucchi"
 title_separator          : "-"
 name                     : &name "Aurelien Lucchi"
 description              : &description "Researcher in Deep Learning"
-url                      : https://alucchi.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://alucchi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alucchi.github.io/"
 
@@ -22,10 +22,10 @@ repository               : "alucchi.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/alucchi.jpg"
+  name             : "Aurelien Lucchi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Researcher in Deep Learning"
   location         : "Switzerland"
   employer         : "University of Basel"
   uri              : # URL
