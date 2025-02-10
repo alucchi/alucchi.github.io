@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Aurelien Lucchi"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Aurélien Lucchi
 
 **Associate Professor, Department of Mathematics and Computer Science, University of Basel**  
