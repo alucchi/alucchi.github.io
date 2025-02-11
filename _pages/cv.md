@@ -28,14 +28,13 @@ redirect_from:
 **Departement Mathematik und Informatik | Universität Basel**  
 *Full-time, Jan 2022 – Present (3 yrs 2 mos) | Basel, Switzerland*  
 - Role: Assistant Professor  
-- Research Area: Deep Learning
+- Research Area: Optimization and Deep Learning
 
 ### Scientific Researcher  
 **ETH Zurich**  
 *Jul 2018 – Jan 2022 (3 yrs 7 mos)*  
 - Position: Researcher at the Institute for Machine Learning at ETH Zurich  
-- Research Interests: Optimization and theoretical aspects of deep learning  
-- Field: Deep Learning
+- Research Area: Optimization and theoretical aspects of Deep Learning  
 
 ### Postdoctoral Researcher  
 **ETH Zurich**  
@@ -43,7 +42,7 @@ redirect_from:
 - Conducted research in Data Analytics at ETH Zurich  
 - Collaborated with Prof. Thomas Hofmann on developing machine learning algorithms for large-scale data analysis (including text and images)  
 - Lecturer for *Probabilistic Graphical Models* at ETH Zurich  
-- Research Interests: Optimization and probabilistic models with deep learning
+- Research Area: Optimization and Machine Learning
 
 ### Postdoctoral Researcher  
 **EPFL**  
