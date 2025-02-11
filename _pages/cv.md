@@ -16,7 +16,6 @@ redirect_from:
 
 - **Doctor of Philosophy (PhD) in Computer Science**  
   *EPFL (École polytechnique fédérale de Lausanne), 2008 – 2013*  
-  *Focus: Deep Learning*
 
 - **Master of Science (MsC) in Computer Science**  
   *INSA Lyon – Institut National des Sciences Appliquées de Lyon, 2004 – 2007*
