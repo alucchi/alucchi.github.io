@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-**Associate Professor, Department of Mathematics and Computer Science, University of Basel**  
+**Associate Professor, Department of Mathematics and Computer Science | University of Basel**  
 **Departement Mathematik und Informatik | Universität Basel**  
 *Basel, Switzerland*  
-
-**Contact Info:**
 
 [Group website](https://omls.dmi.unibas.ch/en/)
 
@@ -20,7 +18,7 @@ redirect_from:
 
 ## About Me
 
-I am currently an assistant professor in the Department of Mathematics and Computer Science at the University of Basel, Switzerland. Prior to this, I was a researcher at ETH Zürich’s Institute of Machine Learning. I obtained my Ph.D. in Computer Science from EPFL in Lausanne. My work focuses on the theoretical foundations of deep learning, stochastic optimization, and practical machine learning applications, particularly in fine-tuning and reasoning.
+I am an associate professor in the Department of Mathematics and Computer Science at the University of Basel, Switzerland. Prior to this, I was a researcher at ETH Zürich’s Institute of Machine Learning. I obtained my Ph.D. in Computer Science from EPFL in Lausanne. My work focuses on the theoretical foundations of deep learning, stochastic optimization, and practical machine learning applications, particularly in fine-tuning and reasoning.
 
 ---
 
