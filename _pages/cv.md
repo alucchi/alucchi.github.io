@@ -80,9 +80,13 @@ redirect_from:
 
 ---
 
-## Honors & Awards
+## Recent Honors & Awards (selected)
 
 - **ERC SNF Consolidator Grant**  
   *Issued by Swiss National Foundation, Aug 2024*  
   - Associated with Departement Mathematik und Informatik | Universität Basel
+  - 9% acceptance rate
+- **Highlighted Area Chair ICLR 2022**
+- **Outstanding reviewer (top 10\%)**
+  *NeurIPS 2018, ICML 2018*
 
