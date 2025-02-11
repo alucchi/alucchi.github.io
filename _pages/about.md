@@ -15,9 +15,6 @@ redirect_from:
 
 [Group website](https://omls.dmi.unibas.ch/en/)
 
-[GScholar](https://scholar.google.com/citations?user=V1ONSgIAAAAJ&hl=en)
-
-[LinkedIn](https://www.linkedin.com/in/aurelien-lucchi-aa18835/)
 
 ---
 
@@ -36,11 +33,5 @@ I am currently an assistant professor in the Department of Mathematics and Compu
 - **Master of Science (MsC) in Computer Science**  
   *INSA Lyon – Institut National des Sciences Appliquées de Lyon, 2004 – 2007*
 
----
 
-## Recent Honors & Awards
-
-- **ERC SNF Consolidator Grant**  
-  *Issued by Swiss National Foundation, Aug 2024*  
-  - Associated with Departement Mathematik und Informatik | Universität Basel
 
